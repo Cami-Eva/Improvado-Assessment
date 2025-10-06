@@ -12,7 +12,7 @@
 - Provide semantic views for platform, campaign, and temporal analysis
 
 **Technological Stack:**
-- Visual Studio Code
+- Visual Studio Code (Github Codespace)
 - BigQuery
 - PowerBI
 - Cloud Sonnet 4.5
