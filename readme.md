@@ -89,7 +89,7 @@
 
 A semantic layer optimized for dashboarding, with flexible slices by platform, campaign, time, and engagement type, minimizing repeated metric logic in BI.
 
-### Step 4 — Key Insights Query Scaffold
+## Step 4 — Key Insights Query Scaffold
 
 **Plan:**
 
