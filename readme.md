@@ -32,6 +32,7 @@
 - Created the unified fact table fact_ads_performance using a single CREATE OR REPLACE TABLE query with CTEs:
     - facebook_unified: mapped ad_set_id → adgroup_id; spend → cost; included engagement_rate, reach, frequency
     - google_unified: mapped ad_group_id → adgroup_id; ctr → platform_engagement_rate; included quality_score, search_impression_share, conversion_value
+      
      -tiktok_unified: included granular video watch milestones and social interactions (likes, shares, comments)
 - Unioned all platforms and computed:
     - Core metrics: ctr, cpc, cpm, cvr, cpa, roas
