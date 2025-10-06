@@ -15,7 +15,7 @@
 - Visual Studio Code (Github Codespace)
 - BigQuery
 - PowerBI
-- Cloud Sonnet 4.5
+- Claude Sonnet 4.5
 
 ---
 
